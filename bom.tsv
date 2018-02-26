@@ -1,14 +1,6 @@
-References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
-Bat	1	9V Battery											
-C1	1	4.7 uF	Panasonic	ECA-1HHG4R7						667ECA1HHG4R7			
-C2	1	100 nF	KEMET	C320C104K1R5TA	Panasonic	ECQ-E2104KF				80C320C104K1R			
-Clip	1	9V Battery clip	Keystone	233						534233			
-IC1	1	4093 CMOS DIP	Texas Instruments	CD4093BCN	STMicroelectronics	HCF4093BEY	ON Semiconductor	MC14093BCP		595-CD4030BE			
-LDR	1	LDR light sensor											
-LED	1	LED 5mm											
-Mini-jack	1	Mini Jack 3.5mm	Kobiconn	16PJ138						16PJ138			
-Pot1	1	1M log	BI Technologies	P160KNP-0QC20A1MEG						858P160KNP0QC20A1M			
-Pot2	1	4.7k lin		P160KNP-0QC20B									
-R1	1	1k Ohm carbon	TE Connectivity	CBT25J1K0						279CBT25J1K0			
-S1	1	Slide Switch											
-SP1	1	Piezo speaker											
+References	Qty	Description	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Manufacturer	MPN	Digikey	Mouser	RS	Newark	Farnell
+U1	1	CD4053BCM	ON Semiconductor	CD4053BCM	National Semiconductor	CD4053BCM	Fairchild Semiconductor	CD4053BCMX	Texas Instruments	CD4053BCMX	Fairchild Semiconductor	CD4053BCM_NL					
+R1	1	resistor 470k	TE Connectivity	CBT25J470K	Yageo	MFR-25FBF52-475K											
+C1	1	3.3uF electrolytic	Panasonic	ECA-1HM3R3	Panasonic	ECA-1HHG3R3											
+Speaker	1	Piezo 															
+Solar Cell	1																
