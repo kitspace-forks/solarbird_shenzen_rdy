@@ -1,4 +1,4 @@
 site:  http://wiki.sgmk-ssam.ch/wiki/KitSprint_ANORG_2018
 bom: bom.tsv
 color: red
-omit-ibom: true
+ ibom-enabled: false
